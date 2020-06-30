@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um arquivo simples somente para mostrar a troca de temas utilizando HTML, CSS e JS
 
-## 🎱 Considerações
+## 🎱 Considerações 
 
 É uma estrutura (Muito simples) somente para conseguir funcionar. 
 
