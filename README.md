@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript]
 
 
-## 📝 Projeto
+## 📝 Projeto 
 
 Um arquivo simples somente para mostrar a troca de temas utilizando HTML, CSS e JS
 
